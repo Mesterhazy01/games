@@ -1,12 +1,6 @@
 {
   "games": [
     {
-      "name": "zipes",
-      "version": "1.2",
-      "description": "Egy szuper játék.",
-      "url": "https://github.com/Mesterhazy01/games/blob/main/pixel_screen.zip"
-    },
-    {
       "name": "pys",
       "version": "0.9",
       "description": "Egy másik játék.",
@@ -14,3 +8,4 @@
     }
   ]
 }
+
