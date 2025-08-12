@@ -1,10 +1,16 @@
-[
-  {
-    "name": "pixel_screen",
-    "version": "1.0.0",
-    "url": "https://github.com/Mesterhazy01/games/blob/main/pixel_screen.zip",
-    "executable": "pixel_screen.py"
-  }
-]
-
-
+{
+  "games": [
+    {
+      "name": "zipes",
+      "version": "1.2",
+      "description": "Egy szuper játék.",
+      "url": "https://github.com/Mesterhazy01/games/blob/main/pixel_screen.zip"
+    },
+    {
+      "name": "pys",
+      "version": "0.9",
+      "description": "Egy másik játék.",
+      "url": "https://github.com/Mesterhazy01/games/blob/main/pixel_screen.py"
+    }
+  ]
+}
