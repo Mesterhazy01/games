@@ -1,13 +1,14 @@
 {
   "games": [
     {
-      "name": "pys",
-      "version": "0.9",
-      "description": "Egy másik játék.",
+      "name": "Képenyővédő",
+      "version": "0.1",
+      "description": "Elég intenzív hatású leállítás:Alt+F4 vagy Windows ikon+ki X-elni!",
       "url": "https://raw.githubusercontent.com/Mesterhazy01/games/refs/heads/main/pixel_screen.py"
     }
   ]
 }
+
 
 
 
